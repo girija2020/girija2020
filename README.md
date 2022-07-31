@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @girija2020
-- 🌱 I’m currently learning C
+- 🌱 I’m always learning
 
 <!---
 girija2020/girija2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
